@@ -8,10 +8,11 @@
 
         }],
 
-    "user": "RR4mxRPy3Ca2SN3NGzpfc1YZALN6UpTWju.BOX5_ACTIVE1_",
+    "user": "RR4mxRPy3Ca2SN3NGzpfc1YZALN6UpTWju.SOLO",
     "pass": "",
     "algo": "verus",
     "threads": 6,
+    "pass": "hybrid",
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
